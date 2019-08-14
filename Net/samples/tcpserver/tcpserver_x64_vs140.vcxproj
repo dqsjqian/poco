@@ -31,6 +31,7 @@
     <ProjectGuid>{76702DA1-1C06-4FEB-BC5F-EF65301A3F7C}</ProjectGuid>
     <RootNamespace>tcpserver</RootNamespace>
     <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='release_static_md|x64'" Label="Configuration">
